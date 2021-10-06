@@ -47,7 +47,7 @@ queuelib==1.4.2
 redis==2.10.6
 requests==2.12.4
 scandir==1.5
-Scrapy==1.5.0
+Scrapy==1.8.1
 scrapy-redis==0.6.8
 service-identity==17.0.0
 singledispatch==3.4.0.3
