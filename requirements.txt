@@ -25,7 +25,7 @@ mysql-connector-python==9.1.0
 mysql-utilities==1.6.4
 numpy==1.22.0
 openpyxl==2.5.1
-paramiko==2.0.0
+paramiko==2.0.9
 parsel==1.4.0
 pathlib2==2.3.0
 pexpect==4.2.1
