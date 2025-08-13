@@ -16,7 +16,7 @@ enum34==1.1.6
 et-xmlfile==1.0.1
 futures==3.2.0
 hyperlink==17.3.1
-idna==2.5
+idna==3.7
 incremental==17.5.0
 ipaddress==1.0.17
 jdcal==1.3
