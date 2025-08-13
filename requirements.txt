@@ -52,7 +52,7 @@ scrapy-redis==0.6.8
 service-identity==17.0.0
 singledispatch==3.4.0.3
 six==1.10.0
-tornado==5.0
+tornado==6.5
 Twisted==24.7.0rc1
 urllib3==2.5.0
 w3lib==1.19.0
