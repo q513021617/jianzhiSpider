@@ -39,7 +39,7 @@ PyDispatcher==2.0.5
 pygobject==3.22.0
 pymongo==4.6.3
 pyodbc==3.0.10
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pysmbc==1.0.15.6
 pysqlite==2.7.0
 pytesseract==0.2.0
